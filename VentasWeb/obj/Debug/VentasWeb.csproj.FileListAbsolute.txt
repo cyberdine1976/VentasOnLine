@@ -1,0 +1,597 @@
+D:\WorkSpaceAD\YOUTUBE\022_FUNCIONALIDAD SISTEMA DE VENTA MVC\VentasWeb\VentasWeb\obj\Debug\VentasWeb.csprojAssemblyReference.cache
+D:\WorkSpaceAD\YOUTUBE\022_FUNCIONALIDAD SISTEMA DE VENTA MVC\VentasWeb\VentasWeb\obj\Debug\VentasWeb.csproj.CoreCompileInputs.cache
+D:\WorkSpaceAD\YOUTUBE\022_FUNCIONALIDAD SISTEMA DE VENTA MVC\VentasWeb\VentasWeb\bin\VentasWeb.dll.config
+D:\WorkSpaceAD\YOUTUBE\022_FUNCIONALIDAD SISTEMA DE VENTA MVC\VentasWeb\VentasWeb\bin\VentasWeb.dll
+D:\WorkSpaceAD\YOUTUBE\022_FUNCIONALIDAD SISTEMA DE VENTA MVC\VentasWeb\VentasWeb\bin\VentasWeb.pdb
+D:\WorkSpaceAD\YOUTUBE\022_FUNCIONALIDAD SISTEMA DE VENTA MVC\VentasWeb\VentasWeb\bin\roslyn\csc.exe
+D:\WorkSpaceAD\YOUTUBE\022_FUNCIONALIDAD SISTEMA DE VENTA MVC\VentasWeb\VentasWeb\bin\roslyn\csc.exe.config
+D:\WorkSpaceAD\YOUTUBE\022_FUNCIONALIDAD SISTEMA DE VENTA MVC\VentasWeb\VentasWeb\bin\roslyn\csc.rsp
+D:\WorkSpaceAD\YOUTUBE\022_FUNCIONALIDAD SISTEMA DE VENTA MVC\VentasWeb\VentasWeb\bin\roslyn\csi.exe
+D:\WorkSpaceAD\YOUTUBE\022_FUNCIONALIDAD SISTEMA DE VENTA MVC\VentasWeb\VentasWeb\bin\roslyn\csi.exe.config
+D:\WorkSpaceAD\YOUTUBE\022_FUNCIONALIDAD SISTEMA DE VENTA MVC\VentasWeb\VentasWeb\bin\roslyn\csi.rsp
+D:\WorkSpaceAD\YOUTUBE\022_FUNCIONALIDAD SISTEMA DE VENTA MVC\VentasWeb\VentasWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\WorkSpaceAD\YOUTUBE\022_FUNCIONALIDAD SISTEMA DE VENTA MVC\VentasWeb\VentasWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\WorkSpaceAD\YOUTUBE\022_FUNCIONALIDAD SISTEMA DE VENTA MVC\VentasWeb\VentasWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\WorkSpaceAD\YOUTUBE\022_FUNCIONALIDAD SISTEMA DE VENTA MVC\VentasWeb\VentasWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\WorkSpaceAD\YOUTUBE\022_FUNCIONALIDAD SISTEMA DE VENTA MVC\VentasWeb\VentasWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\WorkSpaceAD\YOUTUBE\022_FUNCIONALIDAD SISTEMA DE VENTA MVC\VentasWeb\VentasWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\WorkSpaceAD\YOUTUBE\022_FUNCIONALIDAD SISTEMA DE VENTA MVC\VentasWeb\VentasWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\WorkSpaceAD\YOUTUBE\022_FUNCIONALIDAD SISTEMA DE VENTA MVC\VentasWeb\VentasWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\WorkSpaceAD\YOUTUBE\022_FUNCIONALIDAD SISTEMA DE VENTA MVC\VentasWeb\VentasWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\WorkSpaceAD\YOUTUBE\022_FUNCIONALIDAD SISTEMA DE VENTA MVC\VentasWeb\VentasWeb\bin\roslyn\Microsoft.Managed.Core.targets
+D:\WorkSpaceAD\YOUTUBE\022_FUNCIONALIDAD SISTEMA DE VENTA MVC\VentasWeb\VentasWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\WorkSpaceAD\YOUTUBE\022_FUNCIONALIDAD SISTEMA DE VENTA MVC\VentasWeb\VentasWeb\bin\roslyn\System.AppContext.dll
+D:\WorkSpaceAD\YOUTUBE\022_FUNCIONALIDAD SISTEMA DE VENTA MVC\VentasWeb\VentasWeb\bin\roslyn\System.Collections.Immutable.dll
+D:\WorkSpaceAD\YOUTUBE\022_FUNCIONALIDAD SISTEMA DE VENTA MVC\VentasWeb\VentasWeb\bin\roslyn\System.Console.dll
+D:\WorkSpaceAD\YOUTUBE\022_FUNCIONALIDAD SISTEMA DE VENTA MVC\VentasWeb\VentasWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\WorkSpaceAD\YOUTUBE\022_FUNCIONALIDAD SISTEMA DE VENTA MVC\VentasWeb\VentasWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\WorkSpaceAD\YOUTUBE\022_FUNCIONALIDAD SISTEMA DE VENTA MVC\VentasWeb\VentasWeb\bin\roslyn\System.IO.Compression.dll
+D:\WorkSpaceAD\YOUTUBE\022_FUNCIONALIDAD SISTEMA DE VENTA MVC\VentasWeb\VentasWeb\bin\roslyn\System.IO.FileSystem.dll
+D:\WorkSpaceAD\YOUTUBE\022_FUNCIONALIDAD SISTEMA DE VENTA MVC\VentasWeb\VentasWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\WorkSpaceAD\YOUTUBE\022_FUNCIONALIDAD SISTEMA DE VENTA MVC\VentasWeb\VentasWeb\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\WorkSpaceAD\YOUTUBE\022_FUNCIONALIDAD SISTEMA DE VENTA MVC\VentasWeb\VentasWeb\bin\roslyn\System.IO.Pipes.dll
+D:\WorkSpaceAD\YOUTUBE\022_FUNCIONALIDAD SISTEMA DE VENTA MVC\VentasWeb\VentasWeb\bin\roslyn\System.Reflection.Metadata.dll
+D:\WorkSpaceAD\YOUTUBE\022_FUNCIONALIDAD SISTEMA DE VENTA MVC\VentasWeb\VentasWeb\bin\roslyn\System.Security.AccessControl.dll
+D:\WorkSpaceAD\YOUTUBE\022_FUNCIONALIDAD SISTEMA DE VENTA MVC\VentasWeb\VentasWeb\bin\roslyn\System.Security.Claims.dll
+D:\WorkSpaceAD\YOUTUBE\022_FUNCIONALIDAD SISTEMA DE VENTA MVC\VentasWeb\VentasWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\WorkSpaceAD\YOUTUBE\022_FUNCIONALIDAD SISTEMA DE VENTA MVC\VentasWeb\VentasWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\WorkSpaceAD\YOUTUBE\022_FUNCIONALIDAD SISTEMA DE VENTA MVC\VentasWeb\VentasWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\WorkSpaceAD\YOUTUBE\022_FUNCIONALIDAD SISTEMA DE VENTA MVC\VentasWeb\VentasWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\WorkSpaceAD\YOUTUBE\022_FUNCIONALIDAD SISTEMA DE VENTA MVC\VentasWeb\VentasWeb\bin\roslyn\System.Security.Principal.Windows.dll
+D:\WorkSpaceAD\YOUTUBE\022_FUNCIONALIDAD SISTEMA DE VENTA MVC\VentasWeb\VentasWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\WorkSpaceAD\YOUTUBE\022_FUNCIONALIDAD SISTEMA DE VENTA MVC\VentasWeb\VentasWeb\bin\roslyn\System.ValueTuple.dll
+D:\WorkSpaceAD\YOUTUBE\022_FUNCIONALIDAD SISTEMA DE VENTA MVC\VentasWeb\VentasWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\WorkSpaceAD\YOUTUBE\022_FUNCIONALIDAD SISTEMA DE VENTA MVC\VentasWeb\VentasWeb\bin\roslyn\System.Xml.XmlDocument.dll
+D:\WorkSpaceAD\YOUTUBE\022_FUNCIONALIDAD SISTEMA DE VENTA MVC\VentasWeb\VentasWeb\bin\roslyn\System.Xml.XPath.dll
+D:\WorkSpaceAD\YOUTUBE\022_FUNCIONALIDAD SISTEMA DE VENTA MVC\VentasWeb\VentasWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\WorkSpaceAD\YOUTUBE\022_FUNCIONALIDAD SISTEMA DE VENTA MVC\VentasWeb\VentasWeb\bin\roslyn\vbc.exe
+D:\WorkSpaceAD\YOUTUBE\022_FUNCIONALIDAD SISTEMA DE VENTA MVC\VentasWeb\VentasWeb\bin\roslyn\vbc.exe.config
+D:\WorkSpaceAD\YOUTUBE\022_FUNCIONALIDAD SISTEMA DE VENTA MVC\VentasWeb\VentasWeb\bin\roslyn\vbc.rsp
+D:\WorkSpaceAD\YOUTUBE\022_FUNCIONALIDAD SISTEMA DE VENTA MVC\VentasWeb\VentasWeb\bin\roslyn\VBCSCompiler.exe
+D:\WorkSpaceAD\YOUTUBE\022_FUNCIONALIDAD SISTEMA DE VENTA MVC\VentasWeb\VentasWeb\bin\roslyn\VBCSCompiler.exe.config
+D:\WorkSpaceAD\YOUTUBE\022_FUNCIONALIDAD SISTEMA DE VENTA MVC\VentasWeb\VentasWeb\bin\Antlr3.Runtime.dll
+D:\WorkSpaceAD\YOUTUBE\022_FUNCIONALIDAD SISTEMA DE VENTA MVC\VentasWeb\VentasWeb\bin\CapaDatos.dll
+D:\WorkSpaceAD\YOUTUBE\022_FUNCIONALIDAD SISTEMA DE VENTA MVC\VentasWeb\VentasWeb\bin\CapaModelo.dll
+D:\WorkSpaceAD\YOUTUBE\022_FUNCIONALIDAD SISTEMA DE VENTA MVC\VentasWeb\VentasWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\WorkSpaceAD\YOUTUBE\022_FUNCIONALIDAD SISTEMA DE VENTA MVC\VentasWeb\VentasWeb\bin\Microsoft.Web.Infrastructure.dll
+D:\WorkSpaceAD\YOUTUBE\022_FUNCIONALIDAD SISTEMA DE VENTA MVC\VentasWeb\VentasWeb\bin\Newtonsoft.Json.dll
+D:\WorkSpaceAD\YOUTUBE\022_FUNCIONALIDAD SISTEMA DE VENTA MVC\VentasWeb\VentasWeb\bin\System.Web.Helpers.dll
+D:\WorkSpaceAD\YOUTUBE\022_FUNCIONALIDAD SISTEMA DE VENTA MVC\VentasWeb\VentasWeb\bin\System.Web.Mvc.dll
+D:\WorkSpaceAD\YOUTUBE\022_FUNCIONALIDAD SISTEMA DE VENTA MVC\VentasWeb\VentasWeb\bin\System.Web.Optimization.dll
+D:\WorkSpaceAD\YOUTUBE\022_FUNCIONALIDAD SISTEMA DE VENTA MVC\VentasWeb\VentasWeb\bin\System.Web.Razor.dll
+D:\WorkSpaceAD\YOUTUBE\022_FUNCIONALIDAD SISTEMA DE VENTA MVC\VentasWeb\VentasWeb\bin\System.Web.WebPages.Deployment.dll
+D:\WorkSpaceAD\YOUTUBE\022_FUNCIONALIDAD SISTEMA DE VENTA MVC\VentasWeb\VentasWeb\bin\System.Web.WebPages.dll
+D:\WorkSpaceAD\YOUTUBE\022_FUNCIONALIDAD SISTEMA DE VENTA MVC\VentasWeb\VentasWeb\bin\System.Web.WebPages.Razor.dll
+D:\WorkSpaceAD\YOUTUBE\022_FUNCIONALIDAD SISTEMA DE VENTA MVC\VentasWeb\VentasWeb\bin\WebGrease.dll
+D:\WorkSpaceAD\YOUTUBE\022_FUNCIONALIDAD SISTEMA DE VENTA MVC\VentasWeb\VentasWeb\bin\CapaDatos.pdb
+D:\WorkSpaceAD\YOUTUBE\022_FUNCIONALIDAD SISTEMA DE VENTA MVC\VentasWeb\VentasWeb\bin\CapaModelo.pdb
+D:\WorkSpaceAD\YOUTUBE\022_FUNCIONALIDAD SISTEMA DE VENTA MVC\VentasWeb\VentasWeb\bin\System.Web.Helpers.xml
+D:\WorkSpaceAD\YOUTUBE\022_FUNCIONALIDAD SISTEMA DE VENTA MVC\VentasWeb\VentasWeb\bin\System.Web.Mvc.xml
+D:\WorkSpaceAD\YOUTUBE\022_FUNCIONALIDAD SISTEMA DE VENTA MVC\VentasWeb\VentasWeb\bin\System.Web.Optimization.xml
+D:\WorkSpaceAD\YOUTUBE\022_FUNCIONALIDAD SISTEMA DE VENTA MVC\VentasWeb\VentasWeb\bin\System.Web.Razor.xml
+D:\WorkSpaceAD\YOUTUBE\022_FUNCIONALIDAD SISTEMA DE VENTA MVC\VentasWeb\VentasWeb\bin\System.Web.WebPages.xml
+D:\WorkSpaceAD\YOUTUBE\022_FUNCIONALIDAD SISTEMA DE VENTA MVC\VentasWeb\VentasWeb\bin\System.Web.WebPages.Deployment.xml
+D:\WorkSpaceAD\YOUTUBE\022_FUNCIONALIDAD SISTEMA DE VENTA MVC\VentasWeb\VentasWeb\bin\System.Web.WebPages.Razor.xml
+D:\WorkSpaceAD\YOUTUBE\022_FUNCIONALIDAD SISTEMA DE VENTA MVC\VentasWeb\VentasWeb\bin\Newtonsoft.Json.xml
+D:\WorkSpaceAD\YOUTUBE\022_FUNCIONALIDAD SISTEMA DE VENTA MVC\VentasWeb\VentasWeb\bin\Antlr3.Runtime.pdb
+D:\WorkSpaceAD\YOUTUBE\022_FUNCIONALIDAD SISTEMA DE VENTA MVC\VentasWeb\VentasWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\WorkSpaceAD\YOUTUBE\022_FUNCIONALIDAD SISTEMA DE VENTA MVC\VentasWeb\VentasWeb\bin\es\System.Web.Helpers.resources.dll
+D:\WorkSpaceAD\YOUTUBE\022_FUNCIONALIDAD SISTEMA DE VENTA MVC\VentasWeb\VentasWeb\bin\es\System.Web.Mvc.resources.dll
+D:\WorkSpaceAD\YOUTUBE\022_FUNCIONALIDAD SISTEMA DE VENTA MVC\VentasWeb\VentasWeb\bin\es\System.Web.Optimization.resources.dll
+D:\WorkSpaceAD\YOUTUBE\022_FUNCIONALIDAD SISTEMA DE VENTA MVC\VentasWeb\VentasWeb\bin\es\System.Web.Razor.resources.dll
+D:\WorkSpaceAD\YOUTUBE\022_FUNCIONALIDAD SISTEMA DE VENTA MVC\VentasWeb\VentasWeb\bin\es\System.Web.WebPages.resources.dll
+D:\WorkSpaceAD\YOUTUBE\022_FUNCIONALIDAD SISTEMA DE VENTA MVC\VentasWeb\VentasWeb\bin\es\System.Web.WebPages.Deployment.resources.dll
+D:\WorkSpaceAD\YOUTUBE\022_FUNCIONALIDAD SISTEMA DE VENTA MVC\VentasWeb\VentasWeb\bin\es\System.Web.WebPages.Razor.resources.dll
+D:\WorkSpaceAD\YOUTUBE\022_FUNCIONALIDAD SISTEMA DE VENTA MVC\VentasWeb\VentasWeb\obj\Debug\VentasWeb.csproj.CopyComplete
+D:\WorkSpaceAD\YOUTUBE\022_FUNCIONALIDAD SISTEMA DE VENTA MVC\VentasWeb\VentasWeb\obj\Debug\VentasWeb.dll
+D:\WorkSpaceAD\YOUTUBE\022_FUNCIONALIDAD SISTEMA DE VENTA MVC\VentasWeb\VentasWeb\obj\Debug\VentasWeb.pdb
+C:\Users\Mario Fornos\Documents\Visual Studio 2015\VentasWeb\VentasWeb\bin\VentasWeb.dll.config
+C:\Users\Mario Fornos\Documents\Visual Studio 2015\VentasWeb\VentasWeb\bin\VentasWeb.dll
+C:\Users\Mario Fornos\Documents\Visual Studio 2015\VentasWeb\VentasWeb\bin\VentasWeb.pdb
+C:\Users\Mario Fornos\Documents\Visual Studio 2015\VentasWeb\VentasWeb\bin\roslyn\csc.exe
+C:\Users\Mario Fornos\Documents\Visual Studio 2015\VentasWeb\VentasWeb\bin\roslyn\csc.exe.config
+C:\Users\Mario Fornos\Documents\Visual Studio 2015\VentasWeb\VentasWeb\bin\roslyn\csc.rsp
+C:\Users\Mario Fornos\Documents\Visual Studio 2015\VentasWeb\VentasWeb\bin\roslyn\csi.exe
+C:\Users\Mario Fornos\Documents\Visual Studio 2015\VentasWeb\VentasWeb\bin\roslyn\csi.exe.config
+C:\Users\Mario Fornos\Documents\Visual Studio 2015\VentasWeb\VentasWeb\bin\roslyn\csi.rsp
+C:\Users\Mario Fornos\Documents\Visual Studio 2015\VentasWeb\VentasWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Mario Fornos\Documents\Visual Studio 2015\VentasWeb\VentasWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Mario Fornos\Documents\Visual Studio 2015\VentasWeb\VentasWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Mario Fornos\Documents\Visual Studio 2015\VentasWeb\VentasWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Mario Fornos\Documents\Visual Studio 2015\VentasWeb\VentasWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Mario Fornos\Documents\Visual Studio 2015\VentasWeb\VentasWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Mario Fornos\Documents\Visual Studio 2015\VentasWeb\VentasWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Mario Fornos\Documents\Visual Studio 2015\VentasWeb\VentasWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Mario Fornos\Documents\Visual Studio 2015\VentasWeb\VentasWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Mario Fornos\Documents\Visual Studio 2015\VentasWeb\VentasWeb\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Mario Fornos\Documents\Visual Studio 2015\VentasWeb\VentasWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Mario Fornos\Documents\Visual Studio 2015\VentasWeb\VentasWeb\bin\roslyn\System.AppContext.dll
+C:\Users\Mario Fornos\Documents\Visual Studio 2015\VentasWeb\VentasWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Mario Fornos\Documents\Visual Studio 2015\VentasWeb\VentasWeb\bin\roslyn\System.Console.dll
+C:\Users\Mario Fornos\Documents\Visual Studio 2015\VentasWeb\VentasWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Mario Fornos\Documents\Visual Studio 2015\VentasWeb\VentasWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Mario Fornos\Documents\Visual Studio 2015\VentasWeb\VentasWeb\bin\roslyn\System.IO.Compression.dll
+C:\Users\Mario Fornos\Documents\Visual Studio 2015\VentasWeb\VentasWeb\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Mario Fornos\Documents\Visual Studio 2015\VentasWeb\VentasWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Mario Fornos\Documents\Visual Studio 2015\VentasWeb\VentasWeb\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Mario Fornos\Documents\Visual Studio 2015\VentasWeb\VentasWeb\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Mario Fornos\Documents\Visual Studio 2015\VentasWeb\VentasWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Mario Fornos\Documents\Visual Studio 2015\VentasWeb\VentasWeb\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Mario Fornos\Documents\Visual Studio 2015\VentasWeb\VentasWeb\bin\roslyn\System.Security.Claims.dll
+C:\Users\Mario Fornos\Documents\Visual Studio 2015\VentasWeb\VentasWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Mario Fornos\Documents\Visual Studio 2015\VentasWeb\VentasWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Mario Fornos\Documents\Visual Studio 2015\VentasWeb\VentasWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Mario Fornos\Documents\Visual Studio 2015\VentasWeb\VentasWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Mario Fornos\Documents\Visual Studio 2015\VentasWeb\VentasWeb\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Mario Fornos\Documents\Visual Studio 2015\VentasWeb\VentasWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Mario Fornos\Documents\Visual Studio 2015\VentasWeb\VentasWeb\bin\roslyn\System.ValueTuple.dll
+C:\Users\Mario Fornos\Documents\Visual Studio 2015\VentasWeb\VentasWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Mario Fornos\Documents\Visual Studio 2015\VentasWeb\VentasWeb\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Mario Fornos\Documents\Visual Studio 2015\VentasWeb\VentasWeb\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Mario Fornos\Documents\Visual Studio 2015\VentasWeb\VentasWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Mario Fornos\Documents\Visual Studio 2015\VentasWeb\VentasWeb\bin\roslyn\vbc.exe
+C:\Users\Mario Fornos\Documents\Visual Studio 2015\VentasWeb\VentasWeb\bin\roslyn\vbc.exe.config
+C:\Users\Mario Fornos\Documents\Visual Studio 2015\VentasWeb\VentasWeb\bin\roslyn\vbc.rsp
+C:\Users\Mario Fornos\Documents\Visual Studio 2015\VentasWeb\VentasWeb\bin\roslyn\VBCSCompiler.exe
+C:\Users\Mario Fornos\Documents\Visual Studio 2015\VentasWeb\VentasWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Mario Fornos\Documents\Visual Studio 2015\VentasWeb\VentasWeb\bin\Antlr3.Runtime.dll
+C:\Users\Mario Fornos\Documents\Visual Studio 2015\VentasWeb\VentasWeb\bin\CapaDatos.dll
+C:\Users\Mario Fornos\Documents\Visual Studio 2015\VentasWeb\VentasWeb\bin\CapaModelo.dll
+C:\Users\Mario Fornos\Documents\Visual Studio 2015\VentasWeb\VentasWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Mario Fornos\Documents\Visual Studio 2015\VentasWeb\VentasWeb\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Mario Fornos\Documents\Visual Studio 2015\VentasWeb\VentasWeb\bin\Newtonsoft.Json.dll
+C:\Users\Mario Fornos\Documents\Visual Studio 2015\VentasWeb\VentasWeb\bin\System.Web.Helpers.dll
+C:\Users\Mario Fornos\Documents\Visual Studio 2015\VentasWeb\VentasWeb\bin\System.Web.Mvc.dll
+C:\Users\Mario Fornos\Documents\Visual Studio 2015\VentasWeb\VentasWeb\bin\System.Web.Optimization.dll
+C:\Users\Mario Fornos\Documents\Visual Studio 2015\VentasWeb\VentasWeb\bin\System.Web.Razor.dll
+C:\Users\Mario Fornos\Documents\Visual Studio 2015\VentasWeb\VentasWeb\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Mario Fornos\Documents\Visual Studio 2015\VentasWeb\VentasWeb\bin\System.Web.WebPages.dll
+C:\Users\Mario Fornos\Documents\Visual Studio 2015\VentasWeb\VentasWeb\bin\System.Web.WebPages.Razor.dll
+C:\Users\Mario Fornos\Documents\Visual Studio 2015\VentasWeb\VentasWeb\bin\WebGrease.dll
+C:\Users\Mario Fornos\Documents\Visual Studio 2015\VentasWeb\VentasWeb\bin\CapaDatos.pdb
+C:\Users\Mario Fornos\Documents\Visual Studio 2015\VentasWeb\VentasWeb\bin\CapaModelo.pdb
+C:\Users\Mario Fornos\Documents\Visual Studio 2015\VentasWeb\VentasWeb\bin\System.Web.Helpers.xml
+C:\Users\Mario Fornos\Documents\Visual Studio 2015\VentasWeb\VentasWeb\bin\System.Web.Mvc.xml
+C:\Users\Mario Fornos\Documents\Visual Studio 2015\VentasWeb\VentasWeb\bin\System.Web.Optimization.xml
+C:\Users\Mario Fornos\Documents\Visual Studio 2015\VentasWeb\VentasWeb\bin\System.Web.Razor.xml
+C:\Users\Mario Fornos\Documents\Visual Studio 2015\VentasWeb\VentasWeb\bin\System.Web.WebPages.xml
+C:\Users\Mario Fornos\Documents\Visual Studio 2015\VentasWeb\VentasWeb\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Mario Fornos\Documents\Visual Studio 2015\VentasWeb\VentasWeb\bin\System.Web.WebPages.Razor.xml
+C:\Users\Mario Fornos\Documents\Visual Studio 2015\VentasWeb\VentasWeb\bin\Newtonsoft.Json.xml
+C:\Users\Mario Fornos\Documents\Visual Studio 2015\VentasWeb\VentasWeb\bin\Antlr3.Runtime.pdb
+C:\Users\Mario Fornos\Documents\Visual Studio 2015\VentasWeb\VentasWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Mario Fornos\Documents\Visual Studio 2015\VentasWeb\VentasWeb\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Mario Fornos\Documents\Visual Studio 2015\VentasWeb\VentasWeb\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Mario Fornos\Documents\Visual Studio 2015\VentasWeb\VentasWeb\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Mario Fornos\Documents\Visual Studio 2015\VentasWeb\VentasWeb\bin\es\System.Web.Razor.resources.dll
+C:\Users\Mario Fornos\Documents\Visual Studio 2015\VentasWeb\VentasWeb\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Mario Fornos\Documents\Visual Studio 2015\VentasWeb\VentasWeb\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Mario Fornos\Documents\Visual Studio 2015\VentasWeb\VentasWeb\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Mario Fornos\Documents\Visual Studio 2015\VentasWeb\VentasWeb\obj\Debug\VentasWeb.csprojResolveAssemblyReference.cache
+C:\Users\Mario Fornos\Documents\Visual Studio 2015\VentasWeb\VentasWeb\obj\Debug\VentasWeb.dll
+C:\Users\Mario Fornos\Documents\Visual Studio 2015\VentasWeb\VentasWeb\obj\Debug\VentasWeb.pdb
+D:\TOOLSDEVELOPER\SISTEMASWEB\VentasWeb\VentasWeb\bin\VentasWeb.dll.config
+D:\TOOLSDEVELOPER\SISTEMASWEB\VentasWeb\VentasWeb\bin\VentasWeb.dll
+D:\TOOLSDEVELOPER\SISTEMASWEB\VentasWeb\VentasWeb\bin\VentasWeb.pdb
+D:\TOOLSDEVELOPER\SISTEMASWEB\VentasWeb\VentasWeb\bin\roslyn\csc.exe
+D:\TOOLSDEVELOPER\SISTEMASWEB\VentasWeb\VentasWeb\bin\roslyn\csc.exe.config
+D:\TOOLSDEVELOPER\SISTEMASWEB\VentasWeb\VentasWeb\bin\roslyn\csc.rsp
+D:\TOOLSDEVELOPER\SISTEMASWEB\VentasWeb\VentasWeb\bin\roslyn\csi.exe
+D:\TOOLSDEVELOPER\SISTEMASWEB\VentasWeb\VentasWeb\bin\roslyn\csi.exe.config
+D:\TOOLSDEVELOPER\SISTEMASWEB\VentasWeb\VentasWeb\bin\roslyn\csi.rsp
+D:\TOOLSDEVELOPER\SISTEMASWEB\VentasWeb\VentasWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\TOOLSDEVELOPER\SISTEMASWEB\VentasWeb\VentasWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\TOOLSDEVELOPER\SISTEMASWEB\VentasWeb\VentasWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\TOOLSDEVELOPER\SISTEMASWEB\VentasWeb\VentasWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\TOOLSDEVELOPER\SISTEMASWEB\VentasWeb\VentasWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\TOOLSDEVELOPER\SISTEMASWEB\VentasWeb\VentasWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\TOOLSDEVELOPER\SISTEMASWEB\VentasWeb\VentasWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\TOOLSDEVELOPER\SISTEMASWEB\VentasWeb\VentasWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\TOOLSDEVELOPER\SISTEMASWEB\VentasWeb\VentasWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\TOOLSDEVELOPER\SISTEMASWEB\VentasWeb\VentasWeb\bin\roslyn\Microsoft.Managed.Core.targets
+D:\TOOLSDEVELOPER\SISTEMASWEB\VentasWeb\VentasWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\TOOLSDEVELOPER\SISTEMASWEB\VentasWeb\VentasWeb\bin\roslyn\System.AppContext.dll
+D:\TOOLSDEVELOPER\SISTEMASWEB\VentasWeb\VentasWeb\bin\roslyn\System.Collections.Immutable.dll
+D:\TOOLSDEVELOPER\SISTEMASWEB\VentasWeb\VentasWeb\bin\roslyn\System.Console.dll
+D:\TOOLSDEVELOPER\SISTEMASWEB\VentasWeb\VentasWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\TOOLSDEVELOPER\SISTEMASWEB\VentasWeb\VentasWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\TOOLSDEVELOPER\SISTEMASWEB\VentasWeb\VentasWeb\bin\roslyn\System.IO.Compression.dll
+D:\TOOLSDEVELOPER\SISTEMASWEB\VentasWeb\VentasWeb\bin\roslyn\System.IO.FileSystem.dll
+D:\TOOLSDEVELOPER\SISTEMASWEB\VentasWeb\VentasWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\TOOLSDEVELOPER\SISTEMASWEB\VentasWeb\VentasWeb\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\TOOLSDEVELOPER\SISTEMASWEB\VentasWeb\VentasWeb\bin\roslyn\System.IO.Pipes.dll
+D:\TOOLSDEVELOPER\SISTEMASWEB\VentasWeb\VentasWeb\bin\roslyn\System.Reflection.Metadata.dll
+D:\TOOLSDEVELOPER\SISTEMASWEB\VentasWeb\VentasWeb\bin\roslyn\System.Security.AccessControl.dll
+D:\TOOLSDEVELOPER\SISTEMASWEB\VentasWeb\VentasWeb\bin\roslyn\System.Security.Claims.dll
+D:\TOOLSDEVELOPER\SISTEMASWEB\VentasWeb\VentasWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\TOOLSDEVELOPER\SISTEMASWEB\VentasWeb\VentasWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\TOOLSDEVELOPER\SISTEMASWEB\VentasWeb\VentasWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\TOOLSDEVELOPER\SISTEMASWEB\VentasWeb\VentasWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\TOOLSDEVELOPER\SISTEMASWEB\VentasWeb\VentasWeb\bin\roslyn\System.Security.Principal.Windows.dll
+D:\TOOLSDEVELOPER\SISTEMASWEB\VentasWeb\VentasWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\TOOLSDEVELOPER\SISTEMASWEB\VentasWeb\VentasWeb\bin\roslyn\System.ValueTuple.dll
+D:\TOOLSDEVELOPER\SISTEMASWEB\VentasWeb\VentasWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\TOOLSDEVELOPER\SISTEMASWEB\VentasWeb\VentasWeb\bin\roslyn\System.Xml.XmlDocument.dll
+D:\TOOLSDEVELOPER\SISTEMASWEB\VentasWeb\VentasWeb\bin\roslyn\System.Xml.XPath.dll
+D:\TOOLSDEVELOPER\SISTEMASWEB\VentasWeb\VentasWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\TOOLSDEVELOPER\SISTEMASWEB\VentasWeb\VentasWeb\bin\roslyn\vbc.exe
+D:\TOOLSDEVELOPER\SISTEMASWEB\VentasWeb\VentasWeb\bin\roslyn\vbc.exe.config
+D:\TOOLSDEVELOPER\SISTEMASWEB\VentasWeb\VentasWeb\bin\roslyn\vbc.rsp
+D:\TOOLSDEVELOPER\SISTEMASWEB\VentasWeb\VentasWeb\bin\roslyn\VBCSCompiler.exe
+D:\TOOLSDEVELOPER\SISTEMASWEB\VentasWeb\VentasWeb\bin\roslyn\VBCSCompiler.exe.config
+D:\TOOLSDEVELOPER\SISTEMASWEB\VentasWeb\VentasWeb\bin\Antlr3.Runtime.dll
+D:\TOOLSDEVELOPER\SISTEMASWEB\VentasWeb\VentasWeb\bin\CapaDatos.dll
+D:\TOOLSDEVELOPER\SISTEMASWEB\VentasWeb\VentasWeb\bin\CapaModelo.dll
+D:\TOOLSDEVELOPER\SISTEMASWEB\VentasWeb\VentasWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\TOOLSDEVELOPER\SISTEMASWEB\VentasWeb\VentasWeb\bin\Microsoft.Web.Infrastructure.dll
+D:\TOOLSDEVELOPER\SISTEMASWEB\VentasWeb\VentasWeb\bin\Newtonsoft.Json.dll
+D:\TOOLSDEVELOPER\SISTEMASWEB\VentasWeb\VentasWeb\bin\System.Web.Helpers.dll
+D:\TOOLSDEVELOPER\SISTEMASWEB\VentasWeb\VentasWeb\bin\System.Web.Mvc.dll
+D:\TOOLSDEVELOPER\SISTEMASWEB\VentasWeb\VentasWeb\bin\System.Web.Optimization.dll
+D:\TOOLSDEVELOPER\SISTEMASWEB\VentasWeb\VentasWeb\bin\System.Web.Razor.dll
+D:\TOOLSDEVELOPER\SISTEMASWEB\VentasWeb\VentasWeb\bin\System.Web.WebPages.Deployment.dll
+D:\TOOLSDEVELOPER\SISTEMASWEB\VentasWeb\VentasWeb\bin\System.Web.WebPages.dll
+D:\TOOLSDEVELOPER\SISTEMASWEB\VentasWeb\VentasWeb\bin\System.Web.WebPages.Razor.dll
+D:\TOOLSDEVELOPER\SISTEMASWEB\VentasWeb\VentasWeb\bin\WebGrease.dll
+D:\TOOLSDEVELOPER\SISTEMASWEB\VentasWeb\VentasWeb\bin\CapaDatos.pdb
+D:\TOOLSDEVELOPER\SISTEMASWEB\VentasWeb\VentasWeb\bin\CapaModelo.pdb
+D:\TOOLSDEVELOPER\SISTEMASWEB\VentasWeb\VentasWeb\bin\System.Web.Helpers.xml
+D:\TOOLSDEVELOPER\SISTEMASWEB\VentasWeb\VentasWeb\bin\System.Web.Mvc.xml
+D:\TOOLSDEVELOPER\SISTEMASWEB\VentasWeb\VentasWeb\bin\System.Web.Optimization.xml
+D:\TOOLSDEVELOPER\SISTEMASWEB\VentasWeb\VentasWeb\bin\System.Web.Razor.xml
+D:\TOOLSDEVELOPER\SISTEMASWEB\VentasWeb\VentasWeb\bin\System.Web.WebPages.xml
+D:\TOOLSDEVELOPER\SISTEMASWEB\VentasWeb\VentasWeb\bin\System.Web.WebPages.Deployment.xml
+D:\TOOLSDEVELOPER\SISTEMASWEB\VentasWeb\VentasWeb\bin\System.Web.WebPages.Razor.xml
+D:\TOOLSDEVELOPER\SISTEMASWEB\VentasWeb\VentasWeb\bin\Newtonsoft.Json.xml
+D:\TOOLSDEVELOPER\SISTEMASWEB\VentasWeb\VentasWeb\bin\Antlr3.Runtime.pdb
+D:\TOOLSDEVELOPER\SISTEMASWEB\VentasWeb\VentasWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\TOOLSDEVELOPER\SISTEMASWEB\VentasWeb\VentasWeb\bin\es\System.Web.Helpers.resources.dll
+D:\TOOLSDEVELOPER\SISTEMASWEB\VentasWeb\VentasWeb\bin\es\System.Web.Mvc.resources.dll
+D:\TOOLSDEVELOPER\SISTEMASWEB\VentasWeb\VentasWeb\bin\es\System.Web.Optimization.resources.dll
+D:\TOOLSDEVELOPER\SISTEMASWEB\VentasWeb\VentasWeb\bin\es\System.Web.Razor.resources.dll
+D:\TOOLSDEVELOPER\SISTEMASWEB\VentasWeb\VentasWeb\bin\es\System.Web.WebPages.resources.dll
+D:\TOOLSDEVELOPER\SISTEMASWEB\VentasWeb\VentasWeb\bin\es\System.Web.WebPages.Deployment.resources.dll
+D:\TOOLSDEVELOPER\SISTEMASWEB\VentasWeb\VentasWeb\bin\es\System.Web.WebPages.Razor.resources.dll
+D:\TOOLSDEVELOPER\SISTEMASWEB\VentasWeb\VentasWeb\obj\Debug\VentasWeb.csprojResolveAssemblyReference.cache
+D:\TOOLSDEVELOPER\SISTEMASWEB\VentasWeb\VentasWeb\obj\Debug\VentasWeb.dll
+D:\TOOLSDEVELOPER\SISTEMASWEB\VentasWeb\VentasWeb\obj\Debug\VentasWeb.pdb
+D:\VentasWeb\VentasWeb\bin\VentasWeb.dll.config
+D:\VentasWeb\VentasWeb\bin\VentasWeb.dll
+D:\VentasWeb\VentasWeb\bin\VentasWeb.pdb
+D:\VentasWeb\VentasWeb\bin\roslyn\csc.exe
+D:\VentasWeb\VentasWeb\bin\roslyn\csc.exe.config
+D:\VentasWeb\VentasWeb\bin\roslyn\csc.rsp
+D:\VentasWeb\VentasWeb\bin\roslyn\csi.exe
+D:\VentasWeb\VentasWeb\bin\roslyn\csi.exe.config
+D:\VentasWeb\VentasWeb\bin\roslyn\csi.rsp
+D:\VentasWeb\VentasWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\VentasWeb\VentasWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\VentasWeb\VentasWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\VentasWeb\VentasWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\VentasWeb\VentasWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\VentasWeb\VentasWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\VentasWeb\VentasWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\VentasWeb\VentasWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\VentasWeb\VentasWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\VentasWeb\VentasWeb\bin\roslyn\Microsoft.Managed.Core.targets
+D:\VentasWeb\VentasWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\VentasWeb\VentasWeb\bin\roslyn\System.AppContext.dll
+D:\VentasWeb\VentasWeb\bin\roslyn\System.Collections.Immutable.dll
+D:\VentasWeb\VentasWeb\bin\roslyn\System.Console.dll
+D:\VentasWeb\VentasWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\VentasWeb\VentasWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\VentasWeb\VentasWeb\bin\roslyn\System.IO.Compression.dll
+D:\VentasWeb\VentasWeb\bin\roslyn\System.IO.FileSystem.dll
+D:\VentasWeb\VentasWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\VentasWeb\VentasWeb\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\VentasWeb\VentasWeb\bin\roslyn\System.IO.Pipes.dll
+D:\VentasWeb\VentasWeb\bin\roslyn\System.Reflection.Metadata.dll
+D:\VentasWeb\VentasWeb\bin\roslyn\System.Security.AccessControl.dll
+D:\VentasWeb\VentasWeb\bin\roslyn\System.Security.Claims.dll
+D:\VentasWeb\VentasWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\VentasWeb\VentasWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\VentasWeb\VentasWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\VentasWeb\VentasWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\VentasWeb\VentasWeb\bin\roslyn\System.Security.Principal.Windows.dll
+D:\VentasWeb\VentasWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\VentasWeb\VentasWeb\bin\roslyn\System.ValueTuple.dll
+D:\VentasWeb\VentasWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\VentasWeb\VentasWeb\bin\roslyn\System.Xml.XmlDocument.dll
+D:\VentasWeb\VentasWeb\bin\roslyn\System.Xml.XPath.dll
+D:\VentasWeb\VentasWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\VentasWeb\VentasWeb\bin\roslyn\vbc.exe
+D:\VentasWeb\VentasWeb\bin\roslyn\vbc.exe.config
+D:\VentasWeb\VentasWeb\bin\roslyn\vbc.rsp
+D:\VentasWeb\VentasWeb\bin\roslyn\VBCSCompiler.exe
+D:\VentasWeb\VentasWeb\bin\roslyn\VBCSCompiler.exe.config
+D:\VentasWeb\VentasWeb\bin\Antlr3.Runtime.dll
+D:\VentasWeb\VentasWeb\bin\CapaDatos.dll
+D:\VentasWeb\VentasWeb\bin\CapaModelo.dll
+D:\VentasWeb\VentasWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\VentasWeb\VentasWeb\bin\Microsoft.Web.Infrastructure.dll
+D:\VentasWeb\VentasWeb\bin\Newtonsoft.Json.dll
+D:\VentasWeb\VentasWeb\bin\System.Web.Helpers.dll
+D:\VentasWeb\VentasWeb\bin\System.Web.Mvc.dll
+D:\VentasWeb\VentasWeb\bin\System.Web.Optimization.dll
+D:\VentasWeb\VentasWeb\bin\System.Web.Razor.dll
+D:\VentasWeb\VentasWeb\bin\System.Web.WebPages.Deployment.dll
+D:\VentasWeb\VentasWeb\bin\System.Web.WebPages.dll
+D:\VentasWeb\VentasWeb\bin\System.Web.WebPages.Razor.dll
+D:\VentasWeb\VentasWeb\bin\WebGrease.dll
+D:\VentasWeb\VentasWeb\bin\CapaDatos.pdb
+D:\VentasWeb\VentasWeb\bin\CapaModelo.pdb
+D:\VentasWeb\VentasWeb\bin\System.Web.Helpers.xml
+D:\VentasWeb\VentasWeb\bin\System.Web.Mvc.xml
+D:\VentasWeb\VentasWeb\bin\System.Web.Optimization.xml
+D:\VentasWeb\VentasWeb\bin\System.Web.Razor.xml
+D:\VentasWeb\VentasWeb\bin\System.Web.WebPages.xml
+D:\VentasWeb\VentasWeb\bin\System.Web.WebPages.Deployment.xml
+D:\VentasWeb\VentasWeb\bin\System.Web.WebPages.Razor.xml
+D:\VentasWeb\VentasWeb\bin\Newtonsoft.Json.xml
+D:\VentasWeb\VentasWeb\bin\Antlr3.Runtime.pdb
+D:\VentasWeb\VentasWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\VentasWeb\VentasWeb\bin\es\System.Web.Helpers.resources.dll
+D:\VentasWeb\VentasWeb\bin\es\System.Web.Mvc.resources.dll
+D:\VentasWeb\VentasWeb\bin\es\System.Web.Optimization.resources.dll
+D:\VentasWeb\VentasWeb\bin\es\System.Web.Razor.resources.dll
+D:\VentasWeb\VentasWeb\bin\es\System.Web.WebPages.resources.dll
+D:\VentasWeb\VentasWeb\bin\es\System.Web.WebPages.Deployment.resources.dll
+D:\VentasWeb\VentasWeb\bin\es\System.Web.WebPages.Razor.resources.dll
+D:\VentasWeb\VentasWeb\obj\Debug\VentasWeb.csprojResolveAssemblyReference.cache
+D:\VentasWeb\VentasWeb\obj\Debug\VentasWeb.dll
+D:\VentasWeb\VentasWeb\obj\Debug\VentasWeb.pdb
+C:\Users\Mario Fornos\Documents\Visual Studio 2015\Projects\VentasWebFinalizado09092021aspmvc5\VentasWeb\VentasWeb\bin\VentasWeb.dll.config
+C:\Users\Mario Fornos\Documents\Visual Studio 2015\Projects\VentasWebFinalizado09092021aspmvc5\VentasWeb\VentasWeb\bin\VentasWeb.dll
+C:\Users\Mario Fornos\Documents\Visual Studio 2015\Projects\VentasWebFinalizado09092021aspmvc5\VentasWeb\VentasWeb\bin\VentasWeb.pdb
+C:\Users\Mario Fornos\Documents\Visual Studio 2015\Projects\VentasWebFinalizado09092021aspmvc5\VentasWeb\VentasWeb\bin\roslyn\csc.exe
+C:\Users\Mario Fornos\Documents\Visual Studio 2015\Projects\VentasWebFinalizado09092021aspmvc5\VentasWeb\VentasWeb\bin\roslyn\csc.exe.config
+C:\Users\Mario Fornos\Documents\Visual Studio 2015\Projects\VentasWebFinalizado09092021aspmvc5\VentasWeb\VentasWeb\bin\roslyn\csc.rsp
+C:\Users\Mario Fornos\Documents\Visual Studio 2015\Projects\VentasWebFinalizado09092021aspmvc5\VentasWeb\VentasWeb\bin\roslyn\csi.exe
+C:\Users\Mario Fornos\Documents\Visual Studio 2015\Projects\VentasWebFinalizado09092021aspmvc5\VentasWeb\VentasWeb\bin\roslyn\csi.exe.config
+C:\Users\Mario Fornos\Documents\Visual Studio 2015\Projects\VentasWebFinalizado09092021aspmvc5\VentasWeb\VentasWeb\bin\roslyn\csi.rsp
+C:\Users\Mario Fornos\Documents\Visual Studio 2015\Projects\VentasWebFinalizado09092021aspmvc5\VentasWeb\VentasWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Mario Fornos\Documents\Visual Studio 2015\Projects\VentasWebFinalizado09092021aspmvc5\VentasWeb\VentasWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Mario Fornos\Documents\Visual Studio 2015\Projects\VentasWebFinalizado09092021aspmvc5\VentasWeb\VentasWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Mario Fornos\Documents\Visual Studio 2015\Projects\VentasWebFinalizado09092021aspmvc5\VentasWeb\VentasWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Mario Fornos\Documents\Visual Studio 2015\Projects\VentasWebFinalizado09092021aspmvc5\VentasWeb\VentasWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Mario Fornos\Documents\Visual Studio 2015\Projects\VentasWebFinalizado09092021aspmvc5\VentasWeb\VentasWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Mario Fornos\Documents\Visual Studio 2015\Projects\VentasWebFinalizado09092021aspmvc5\VentasWeb\VentasWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Mario Fornos\Documents\Visual Studio 2015\Projects\VentasWebFinalizado09092021aspmvc5\VentasWeb\VentasWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Mario Fornos\Documents\Visual Studio 2015\Projects\VentasWebFinalizado09092021aspmvc5\VentasWeb\VentasWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Mario Fornos\Documents\Visual Studio 2015\Projects\VentasWebFinalizado09092021aspmvc5\VentasWeb\VentasWeb\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Mario Fornos\Documents\Visual Studio 2015\Projects\VentasWebFinalizado09092021aspmvc5\VentasWeb\VentasWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Mario Fornos\Documents\Visual Studio 2015\Projects\VentasWebFinalizado09092021aspmvc5\VentasWeb\VentasWeb\bin\roslyn\System.AppContext.dll
+C:\Users\Mario Fornos\Documents\Visual Studio 2015\Projects\VentasWebFinalizado09092021aspmvc5\VentasWeb\VentasWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Mario Fornos\Documents\Visual Studio 2015\Projects\VentasWebFinalizado09092021aspmvc5\VentasWeb\VentasWeb\bin\roslyn\System.Console.dll
+C:\Users\Mario Fornos\Documents\Visual Studio 2015\Projects\VentasWebFinalizado09092021aspmvc5\VentasWeb\VentasWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Mario Fornos\Documents\Visual Studio 2015\Projects\VentasWebFinalizado09092021aspmvc5\VentasWeb\VentasWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Mario Fornos\Documents\Visual Studio 2015\Projects\VentasWebFinalizado09092021aspmvc5\VentasWeb\VentasWeb\bin\roslyn\System.IO.Compression.dll
+C:\Users\Mario Fornos\Documents\Visual Studio 2015\Projects\VentasWebFinalizado09092021aspmvc5\VentasWeb\VentasWeb\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Mario Fornos\Documents\Visual Studio 2015\Projects\VentasWebFinalizado09092021aspmvc5\VentasWeb\VentasWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Mario Fornos\Documents\Visual Studio 2015\Projects\VentasWebFinalizado09092021aspmvc5\VentasWeb\VentasWeb\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Mario Fornos\Documents\Visual Studio 2015\Projects\VentasWebFinalizado09092021aspmvc5\VentasWeb\VentasWeb\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Mario Fornos\Documents\Visual Studio 2015\Projects\VentasWebFinalizado09092021aspmvc5\VentasWeb\VentasWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Mario Fornos\Documents\Visual Studio 2015\Projects\VentasWebFinalizado09092021aspmvc5\VentasWeb\VentasWeb\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Mario Fornos\Documents\Visual Studio 2015\Projects\VentasWebFinalizado09092021aspmvc5\VentasWeb\VentasWeb\bin\roslyn\System.Security.Claims.dll
+C:\Users\Mario Fornos\Documents\Visual Studio 2015\Projects\VentasWebFinalizado09092021aspmvc5\VentasWeb\VentasWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Mario Fornos\Documents\Visual Studio 2015\Projects\VentasWebFinalizado09092021aspmvc5\VentasWeb\VentasWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Mario Fornos\Documents\Visual Studio 2015\Projects\VentasWebFinalizado09092021aspmvc5\VentasWeb\VentasWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Mario Fornos\Documents\Visual Studio 2015\Projects\VentasWebFinalizado09092021aspmvc5\VentasWeb\VentasWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Mario Fornos\Documents\Visual Studio 2015\Projects\VentasWebFinalizado09092021aspmvc5\VentasWeb\VentasWeb\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Mario Fornos\Documents\Visual Studio 2015\Projects\VentasWebFinalizado09092021aspmvc5\VentasWeb\VentasWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Mario Fornos\Documents\Visual Studio 2015\Projects\VentasWebFinalizado09092021aspmvc5\VentasWeb\VentasWeb\bin\roslyn\System.ValueTuple.dll
+C:\Users\Mario Fornos\Documents\Visual Studio 2015\Projects\VentasWebFinalizado09092021aspmvc5\VentasWeb\VentasWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Mario Fornos\Documents\Visual Studio 2015\Projects\VentasWebFinalizado09092021aspmvc5\VentasWeb\VentasWeb\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Mario Fornos\Documents\Visual Studio 2015\Projects\VentasWebFinalizado09092021aspmvc5\VentasWeb\VentasWeb\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Mario Fornos\Documents\Visual Studio 2015\Projects\VentasWebFinalizado09092021aspmvc5\VentasWeb\VentasWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Mario Fornos\Documents\Visual Studio 2015\Projects\VentasWebFinalizado09092021aspmvc5\VentasWeb\VentasWeb\bin\roslyn\vbc.exe
+C:\Users\Mario Fornos\Documents\Visual Studio 2015\Projects\VentasWebFinalizado09092021aspmvc5\VentasWeb\VentasWeb\bin\roslyn\vbc.exe.config
+C:\Users\Mario Fornos\Documents\Visual Studio 2015\Projects\VentasWebFinalizado09092021aspmvc5\VentasWeb\VentasWeb\bin\roslyn\vbc.rsp
+C:\Users\Mario Fornos\Documents\Visual Studio 2015\Projects\VentasWebFinalizado09092021aspmvc5\VentasWeb\VentasWeb\bin\roslyn\VBCSCompiler.exe
+C:\Users\Mario Fornos\Documents\Visual Studio 2015\Projects\VentasWebFinalizado09092021aspmvc5\VentasWeb\VentasWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Mario Fornos\Documents\Visual Studio 2015\Projects\VentasWebFinalizado09092021aspmvc5\VentasWeb\VentasWeb\bin\Antlr3.Runtime.dll
+C:\Users\Mario Fornos\Documents\Visual Studio 2015\Projects\VentasWebFinalizado09092021aspmvc5\VentasWeb\VentasWeb\bin\CapaDatos.dll
+C:\Users\Mario Fornos\Documents\Visual Studio 2015\Projects\VentasWebFinalizado09092021aspmvc5\VentasWeb\VentasWeb\bin\CapaModelo.dll
+C:\Users\Mario Fornos\Documents\Visual Studio 2015\Projects\VentasWebFinalizado09092021aspmvc5\VentasWeb\VentasWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Mario Fornos\Documents\Visual Studio 2015\Projects\VentasWebFinalizado09092021aspmvc5\VentasWeb\VentasWeb\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Mario Fornos\Documents\Visual Studio 2015\Projects\VentasWebFinalizado09092021aspmvc5\VentasWeb\VentasWeb\bin\Newtonsoft.Json.dll
+C:\Users\Mario Fornos\Documents\Visual Studio 2015\Projects\VentasWebFinalizado09092021aspmvc5\VentasWeb\VentasWeb\bin\System.Web.Helpers.dll
+C:\Users\Mario Fornos\Documents\Visual Studio 2015\Projects\VentasWebFinalizado09092021aspmvc5\VentasWeb\VentasWeb\bin\System.Web.Mvc.dll
+C:\Users\Mario Fornos\Documents\Visual Studio 2015\Projects\VentasWebFinalizado09092021aspmvc5\VentasWeb\VentasWeb\bin\System.Web.Optimization.dll
+C:\Users\Mario Fornos\Documents\Visual Studio 2015\Projects\VentasWebFinalizado09092021aspmvc5\VentasWeb\VentasWeb\bin\System.Web.Razor.dll
+C:\Users\Mario Fornos\Documents\Visual Studio 2015\Projects\VentasWebFinalizado09092021aspmvc5\VentasWeb\VentasWeb\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Mario Fornos\Documents\Visual Studio 2015\Projects\VentasWebFinalizado09092021aspmvc5\VentasWeb\VentasWeb\bin\System.Web.WebPages.dll
+C:\Users\Mario Fornos\Documents\Visual Studio 2015\Projects\VentasWebFinalizado09092021aspmvc5\VentasWeb\VentasWeb\bin\System.Web.WebPages.Razor.dll
+C:\Users\Mario Fornos\Documents\Visual Studio 2015\Projects\VentasWebFinalizado09092021aspmvc5\VentasWeb\VentasWeb\bin\WebGrease.dll
+C:\Users\Mario Fornos\Documents\Visual Studio 2015\Projects\VentasWebFinalizado09092021aspmvc5\VentasWeb\VentasWeb\bin\CapaDatos.pdb
+C:\Users\Mario Fornos\Documents\Visual Studio 2015\Projects\VentasWebFinalizado09092021aspmvc5\VentasWeb\VentasWeb\bin\CapaModelo.pdb
+C:\Users\Mario Fornos\Documents\Visual Studio 2015\Projects\VentasWebFinalizado09092021aspmvc5\VentasWeb\VentasWeb\bin\System.Web.Helpers.xml
+C:\Users\Mario Fornos\Documents\Visual Studio 2015\Projects\VentasWebFinalizado09092021aspmvc5\VentasWeb\VentasWeb\bin\System.Web.Mvc.xml
+C:\Users\Mario Fornos\Documents\Visual Studio 2015\Projects\VentasWebFinalizado09092021aspmvc5\VentasWeb\VentasWeb\bin\System.Web.Optimization.xml
+C:\Users\Mario Fornos\Documents\Visual Studio 2015\Projects\VentasWebFinalizado09092021aspmvc5\VentasWeb\VentasWeb\bin\System.Web.Razor.xml
+C:\Users\Mario Fornos\Documents\Visual Studio 2015\Projects\VentasWebFinalizado09092021aspmvc5\VentasWeb\VentasWeb\bin\System.Web.WebPages.xml
+C:\Users\Mario Fornos\Documents\Visual Studio 2015\Projects\VentasWebFinalizado09092021aspmvc5\VentasWeb\VentasWeb\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Mario Fornos\Documents\Visual Studio 2015\Projects\VentasWebFinalizado09092021aspmvc5\VentasWeb\VentasWeb\bin\System.Web.WebPages.Razor.xml
+C:\Users\Mario Fornos\Documents\Visual Studio 2015\Projects\VentasWebFinalizado09092021aspmvc5\VentasWeb\VentasWeb\bin\Newtonsoft.Json.xml
+C:\Users\Mario Fornos\Documents\Visual Studio 2015\Projects\VentasWebFinalizado09092021aspmvc5\VentasWeb\VentasWeb\bin\Antlr3.Runtime.pdb
+C:\Users\Mario Fornos\Documents\Visual Studio 2015\Projects\VentasWebFinalizado09092021aspmvc5\VentasWeb\VentasWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Mario Fornos\Documents\Visual Studio 2015\Projects\VentasWebFinalizado09092021aspmvc5\VentasWeb\VentasWeb\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Mario Fornos\Documents\Visual Studio 2015\Projects\VentasWebFinalizado09092021aspmvc5\VentasWeb\VentasWeb\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Mario Fornos\Documents\Visual Studio 2015\Projects\VentasWebFinalizado09092021aspmvc5\VentasWeb\VentasWeb\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Mario Fornos\Documents\Visual Studio 2015\Projects\VentasWebFinalizado09092021aspmvc5\VentasWeb\VentasWeb\bin\es\System.Web.Razor.resources.dll
+C:\Users\Mario Fornos\Documents\Visual Studio 2015\Projects\VentasWebFinalizado09092021aspmvc5\VentasWeb\VentasWeb\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Mario Fornos\Documents\Visual Studio 2015\Projects\VentasWebFinalizado09092021aspmvc5\VentasWeb\VentasWeb\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Mario Fornos\Documents\Visual Studio 2015\Projects\VentasWebFinalizado09092021aspmvc5\VentasWeb\VentasWeb\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Mario Fornos\Documents\Visual Studio 2015\Projects\VentasWebFinalizado09092021aspmvc5\VentasWeb\VentasWeb\obj\Debug\VentasWeb.csprojResolveAssemblyReference.cache
+C:\Users\Mario Fornos\Documents\Visual Studio 2015\Projects\VentasWebFinalizado09092021aspmvc5\VentasWeb\VentasWeb\obj\Debug\VentasWeb.dll
+C:\Users\Mario Fornos\Documents\Visual Studio 2015\Projects\VentasWebFinalizado09092021aspmvc5\VentasWeb\VentasWeb\obj\Debug\VentasWeb.pdb
+D:\VentasWebFinalizado09092021aspmvc5\VentasWeb\VentasWeb\bin\VentasWeb.dll.config
+D:\VentasWebFinalizado09092021aspmvc5\VentasWeb\VentasWeb\bin\VentasWeb.dll
+D:\VentasWebFinalizado09092021aspmvc5\VentasWeb\VentasWeb\bin\VentasWeb.pdb
+D:\VentasWebFinalizado09092021aspmvc5\VentasWeb\VentasWeb\bin\roslyn\csc.exe
+D:\VentasWebFinalizado09092021aspmvc5\VentasWeb\VentasWeb\bin\roslyn\csc.exe.config
+D:\VentasWebFinalizado09092021aspmvc5\VentasWeb\VentasWeb\bin\roslyn\csc.rsp
+D:\VentasWebFinalizado09092021aspmvc5\VentasWeb\VentasWeb\bin\roslyn\csi.exe
+D:\VentasWebFinalizado09092021aspmvc5\VentasWeb\VentasWeb\bin\roslyn\csi.exe.config
+D:\VentasWebFinalizado09092021aspmvc5\VentasWeb\VentasWeb\bin\roslyn\csi.rsp
+D:\VentasWebFinalizado09092021aspmvc5\VentasWeb\VentasWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\VentasWebFinalizado09092021aspmvc5\VentasWeb\VentasWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\VentasWebFinalizado09092021aspmvc5\VentasWeb\VentasWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\VentasWebFinalizado09092021aspmvc5\VentasWeb\VentasWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\VentasWebFinalizado09092021aspmvc5\VentasWeb\VentasWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\VentasWebFinalizado09092021aspmvc5\VentasWeb\VentasWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\VentasWebFinalizado09092021aspmvc5\VentasWeb\VentasWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\VentasWebFinalizado09092021aspmvc5\VentasWeb\VentasWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\VentasWebFinalizado09092021aspmvc5\VentasWeb\VentasWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\VentasWebFinalizado09092021aspmvc5\VentasWeb\VentasWeb\bin\roslyn\Microsoft.Managed.Core.targets
+D:\VentasWebFinalizado09092021aspmvc5\VentasWeb\VentasWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\VentasWebFinalizado09092021aspmvc5\VentasWeb\VentasWeb\bin\roslyn\System.AppContext.dll
+D:\VentasWebFinalizado09092021aspmvc5\VentasWeb\VentasWeb\bin\roslyn\System.Collections.Immutable.dll
+D:\VentasWebFinalizado09092021aspmvc5\VentasWeb\VentasWeb\bin\roslyn\System.Console.dll
+D:\VentasWebFinalizado09092021aspmvc5\VentasWeb\VentasWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\VentasWebFinalizado09092021aspmvc5\VentasWeb\VentasWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\VentasWebFinalizado09092021aspmvc5\VentasWeb\VentasWeb\bin\roslyn\System.IO.Compression.dll
+D:\VentasWebFinalizado09092021aspmvc5\VentasWeb\VentasWeb\bin\roslyn\System.IO.FileSystem.dll
+D:\VentasWebFinalizado09092021aspmvc5\VentasWeb\VentasWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\VentasWebFinalizado09092021aspmvc5\VentasWeb\VentasWeb\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\VentasWebFinalizado09092021aspmvc5\VentasWeb\VentasWeb\bin\roslyn\System.IO.Pipes.dll
+D:\VentasWebFinalizado09092021aspmvc5\VentasWeb\VentasWeb\bin\roslyn\System.Reflection.Metadata.dll
+D:\VentasWebFinalizado09092021aspmvc5\VentasWeb\VentasWeb\bin\roslyn\System.Security.AccessControl.dll
+D:\VentasWebFinalizado09092021aspmvc5\VentasWeb\VentasWeb\bin\roslyn\System.Security.Claims.dll
+D:\VentasWebFinalizado09092021aspmvc5\VentasWeb\VentasWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\VentasWebFinalizado09092021aspmvc5\VentasWeb\VentasWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\VentasWebFinalizado09092021aspmvc5\VentasWeb\VentasWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\VentasWebFinalizado09092021aspmvc5\VentasWeb\VentasWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\VentasWebFinalizado09092021aspmvc5\VentasWeb\VentasWeb\bin\roslyn\System.Security.Principal.Windows.dll
+D:\VentasWebFinalizado09092021aspmvc5\VentasWeb\VentasWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\VentasWebFinalizado09092021aspmvc5\VentasWeb\VentasWeb\bin\roslyn\System.ValueTuple.dll
+D:\VentasWebFinalizado09092021aspmvc5\VentasWeb\VentasWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\VentasWebFinalizado09092021aspmvc5\VentasWeb\VentasWeb\bin\roslyn\System.Xml.XmlDocument.dll
+D:\VentasWebFinalizado09092021aspmvc5\VentasWeb\VentasWeb\bin\roslyn\System.Xml.XPath.dll
+D:\VentasWebFinalizado09092021aspmvc5\VentasWeb\VentasWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\VentasWebFinalizado09092021aspmvc5\VentasWeb\VentasWeb\bin\roslyn\vbc.exe
+D:\VentasWebFinalizado09092021aspmvc5\VentasWeb\VentasWeb\bin\roslyn\vbc.exe.config
+D:\VentasWebFinalizado09092021aspmvc5\VentasWeb\VentasWeb\bin\roslyn\vbc.rsp
+D:\VentasWebFinalizado09092021aspmvc5\VentasWeb\VentasWeb\bin\roslyn\VBCSCompiler.exe
+D:\VentasWebFinalizado09092021aspmvc5\VentasWeb\VentasWeb\bin\roslyn\VBCSCompiler.exe.config
+D:\VentasWebFinalizado09092021aspmvc5\VentasWeb\VentasWeb\bin\Antlr3.Runtime.dll
+D:\VentasWebFinalizado09092021aspmvc5\VentasWeb\VentasWeb\bin\CapaDatos.dll
+D:\VentasWebFinalizado09092021aspmvc5\VentasWeb\VentasWeb\bin\CapaModelo.dll
+D:\VentasWebFinalizado09092021aspmvc5\VentasWeb\VentasWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\VentasWebFinalizado09092021aspmvc5\VentasWeb\VentasWeb\bin\Microsoft.Web.Infrastructure.dll
+D:\VentasWebFinalizado09092021aspmvc5\VentasWeb\VentasWeb\bin\Newtonsoft.Json.dll
+D:\VentasWebFinalizado09092021aspmvc5\VentasWeb\VentasWeb\bin\System.Web.Helpers.dll
+D:\VentasWebFinalizado09092021aspmvc5\VentasWeb\VentasWeb\bin\System.Web.Mvc.dll
+D:\VentasWebFinalizado09092021aspmvc5\VentasWeb\VentasWeb\bin\System.Web.Optimization.dll
+D:\VentasWebFinalizado09092021aspmvc5\VentasWeb\VentasWeb\bin\System.Web.Razor.dll
+D:\VentasWebFinalizado09092021aspmvc5\VentasWeb\VentasWeb\bin\System.Web.WebPages.Deployment.dll
+D:\VentasWebFinalizado09092021aspmvc5\VentasWeb\VentasWeb\bin\System.Web.WebPages.dll
+D:\VentasWebFinalizado09092021aspmvc5\VentasWeb\VentasWeb\bin\System.Web.WebPages.Razor.dll
+D:\VentasWebFinalizado09092021aspmvc5\VentasWeb\VentasWeb\bin\WebGrease.dll
+D:\VentasWebFinalizado09092021aspmvc5\VentasWeb\VentasWeb\bin\CapaDatos.pdb
+D:\VentasWebFinalizado09092021aspmvc5\VentasWeb\VentasWeb\bin\CapaModelo.pdb
+D:\VentasWebFinalizado09092021aspmvc5\VentasWeb\VentasWeb\bin\System.Web.Helpers.xml
+D:\VentasWebFinalizado09092021aspmvc5\VentasWeb\VentasWeb\bin\System.Web.Mvc.xml
+D:\VentasWebFinalizado09092021aspmvc5\VentasWeb\VentasWeb\bin\System.Web.Optimization.xml
+D:\VentasWebFinalizado09092021aspmvc5\VentasWeb\VentasWeb\bin\System.Web.Razor.xml
+D:\VentasWebFinalizado09092021aspmvc5\VentasWeb\VentasWeb\bin\System.Web.WebPages.xml
+D:\VentasWebFinalizado09092021aspmvc5\VentasWeb\VentasWeb\bin\System.Web.WebPages.Deployment.xml
+D:\VentasWebFinalizado09092021aspmvc5\VentasWeb\VentasWeb\bin\System.Web.WebPages.Razor.xml
+D:\VentasWebFinalizado09092021aspmvc5\VentasWeb\VentasWeb\bin\Newtonsoft.Json.xml
+D:\VentasWebFinalizado09092021aspmvc5\VentasWeb\VentasWeb\bin\Antlr3.Runtime.pdb
+D:\VentasWebFinalizado09092021aspmvc5\VentasWeb\VentasWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\VentasWebFinalizado09092021aspmvc5\VentasWeb\VentasWeb\bin\es\System.Web.Helpers.resources.dll
+D:\VentasWebFinalizado09092021aspmvc5\VentasWeb\VentasWeb\bin\es\System.Web.Mvc.resources.dll
+D:\VentasWebFinalizado09092021aspmvc5\VentasWeb\VentasWeb\bin\es\System.Web.Optimization.resources.dll
+D:\VentasWebFinalizado09092021aspmvc5\VentasWeb\VentasWeb\bin\es\System.Web.Razor.resources.dll
+D:\VentasWebFinalizado09092021aspmvc5\VentasWeb\VentasWeb\bin\es\System.Web.WebPages.resources.dll
+D:\VentasWebFinalizado09092021aspmvc5\VentasWeb\VentasWeb\bin\es\System.Web.WebPages.Deployment.resources.dll
+D:\VentasWebFinalizado09092021aspmvc5\VentasWeb\VentasWeb\bin\es\System.Web.WebPages.Razor.resources.dll
+D:\VentasWebFinalizado09092021aspmvc5\VentasWeb\VentasWeb\obj\Debug\VentasWeb.csprojResolveAssemblyReference.cache
+D:\VentasWebFinalizado09092021aspmvc5\VentasWeb\VentasWeb\obj\Debug\VentasWeb.dll
+D:\VentasWebFinalizado09092021aspmvc5\VentasWeb\VentasWeb\obj\Debug\VentasWeb.pdb
+C:\Users\Mario Fornos\Documents\Visual Studio 2015\Projects\VentasWeb\VentasWeb\bin\VentasWeb.dll.config
+C:\Users\Mario Fornos\Documents\Visual Studio 2015\Projects\VentasWeb\VentasWeb\bin\VentasWeb.dll
+C:\Users\Mario Fornos\Documents\Visual Studio 2015\Projects\VentasWeb\VentasWeb\bin\VentasWeb.pdb
+C:\Users\Mario Fornos\Documents\Visual Studio 2015\Projects\VentasWeb\VentasWeb\bin\roslyn\csc.exe
+C:\Users\Mario Fornos\Documents\Visual Studio 2015\Projects\VentasWeb\VentasWeb\bin\roslyn\csc.exe.config
+C:\Users\Mario Fornos\Documents\Visual Studio 2015\Projects\VentasWeb\VentasWeb\bin\roslyn\csc.rsp
+C:\Users\Mario Fornos\Documents\Visual Studio 2015\Projects\VentasWeb\VentasWeb\bin\roslyn\csi.exe
+C:\Users\Mario Fornos\Documents\Visual Studio 2015\Projects\VentasWeb\VentasWeb\bin\roslyn\csi.exe.config
+C:\Users\Mario Fornos\Documents\Visual Studio 2015\Projects\VentasWeb\VentasWeb\bin\roslyn\csi.rsp
+C:\Users\Mario Fornos\Documents\Visual Studio 2015\Projects\VentasWeb\VentasWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Mario Fornos\Documents\Visual Studio 2015\Projects\VentasWeb\VentasWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Mario Fornos\Documents\Visual Studio 2015\Projects\VentasWeb\VentasWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Mario Fornos\Documents\Visual Studio 2015\Projects\VentasWeb\VentasWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Mario Fornos\Documents\Visual Studio 2015\Projects\VentasWeb\VentasWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Mario Fornos\Documents\Visual Studio 2015\Projects\VentasWeb\VentasWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Mario Fornos\Documents\Visual Studio 2015\Projects\VentasWeb\VentasWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Mario Fornos\Documents\Visual Studio 2015\Projects\VentasWeb\VentasWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Mario Fornos\Documents\Visual Studio 2015\Projects\VentasWeb\VentasWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Mario Fornos\Documents\Visual Studio 2015\Projects\VentasWeb\VentasWeb\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Mario Fornos\Documents\Visual Studio 2015\Projects\VentasWeb\VentasWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Mario Fornos\Documents\Visual Studio 2015\Projects\VentasWeb\VentasWeb\bin\roslyn\System.AppContext.dll
+C:\Users\Mario Fornos\Documents\Visual Studio 2015\Projects\VentasWeb\VentasWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Mario Fornos\Documents\Visual Studio 2015\Projects\VentasWeb\VentasWeb\bin\roslyn\System.Console.dll
+C:\Users\Mario Fornos\Documents\Visual Studio 2015\Projects\VentasWeb\VentasWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Mario Fornos\Documents\Visual Studio 2015\Projects\VentasWeb\VentasWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Mario Fornos\Documents\Visual Studio 2015\Projects\VentasWeb\VentasWeb\bin\roslyn\System.IO.Compression.dll
+C:\Users\Mario Fornos\Documents\Visual Studio 2015\Projects\VentasWeb\VentasWeb\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Mario Fornos\Documents\Visual Studio 2015\Projects\VentasWeb\VentasWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Mario Fornos\Documents\Visual Studio 2015\Projects\VentasWeb\VentasWeb\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Mario Fornos\Documents\Visual Studio 2015\Projects\VentasWeb\VentasWeb\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Mario Fornos\Documents\Visual Studio 2015\Projects\VentasWeb\VentasWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Mario Fornos\Documents\Visual Studio 2015\Projects\VentasWeb\VentasWeb\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Mario Fornos\Documents\Visual Studio 2015\Projects\VentasWeb\VentasWeb\bin\roslyn\System.Security.Claims.dll
+C:\Users\Mario Fornos\Documents\Visual Studio 2015\Projects\VentasWeb\VentasWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Mario Fornos\Documents\Visual Studio 2015\Projects\VentasWeb\VentasWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Mario Fornos\Documents\Visual Studio 2015\Projects\VentasWeb\VentasWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Mario Fornos\Documents\Visual Studio 2015\Projects\VentasWeb\VentasWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Mario Fornos\Documents\Visual Studio 2015\Projects\VentasWeb\VentasWeb\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Mario Fornos\Documents\Visual Studio 2015\Projects\VentasWeb\VentasWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Mario Fornos\Documents\Visual Studio 2015\Projects\VentasWeb\VentasWeb\bin\roslyn\System.ValueTuple.dll
+C:\Users\Mario Fornos\Documents\Visual Studio 2015\Projects\VentasWeb\VentasWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Mario Fornos\Documents\Visual Studio 2015\Projects\VentasWeb\VentasWeb\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Mario Fornos\Documents\Visual Studio 2015\Projects\VentasWeb\VentasWeb\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Mario Fornos\Documents\Visual Studio 2015\Projects\VentasWeb\VentasWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Mario Fornos\Documents\Visual Studio 2015\Projects\VentasWeb\VentasWeb\bin\roslyn\vbc.exe
+C:\Users\Mario Fornos\Documents\Visual Studio 2015\Projects\VentasWeb\VentasWeb\bin\roslyn\vbc.exe.config
+C:\Users\Mario Fornos\Documents\Visual Studio 2015\Projects\VentasWeb\VentasWeb\bin\roslyn\vbc.rsp
+C:\Users\Mario Fornos\Documents\Visual Studio 2015\Projects\VentasWeb\VentasWeb\bin\roslyn\VBCSCompiler.exe
+C:\Users\Mario Fornos\Documents\Visual Studio 2015\Projects\VentasWeb\VentasWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Mario Fornos\Documents\Visual Studio 2015\Projects\VentasWeb\VentasWeb\bin\Antlr3.Runtime.dll
+C:\Users\Mario Fornos\Documents\Visual Studio 2015\Projects\VentasWeb\VentasWeb\bin\CapaDatos.dll
+C:\Users\Mario Fornos\Documents\Visual Studio 2015\Projects\VentasWeb\VentasWeb\bin\CapaModelo.dll
+C:\Users\Mario Fornos\Documents\Visual Studio 2015\Projects\VentasWeb\VentasWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Mario Fornos\Documents\Visual Studio 2015\Projects\VentasWeb\VentasWeb\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Mario Fornos\Documents\Visual Studio 2015\Projects\VentasWeb\VentasWeb\bin\Newtonsoft.Json.dll
+C:\Users\Mario Fornos\Documents\Visual Studio 2015\Projects\VentasWeb\VentasWeb\bin\System.Web.Helpers.dll
+C:\Users\Mario Fornos\Documents\Visual Studio 2015\Projects\VentasWeb\VentasWeb\bin\System.Web.Mvc.dll
+C:\Users\Mario Fornos\Documents\Visual Studio 2015\Projects\VentasWeb\VentasWeb\bin\System.Web.Optimization.dll
+C:\Users\Mario Fornos\Documents\Visual Studio 2015\Projects\VentasWeb\VentasWeb\bin\System.Web.Razor.dll
+C:\Users\Mario Fornos\Documents\Visual Studio 2015\Projects\VentasWeb\VentasWeb\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Mario Fornos\Documents\Visual Studio 2015\Projects\VentasWeb\VentasWeb\bin\System.Web.WebPages.dll
+C:\Users\Mario Fornos\Documents\Visual Studio 2015\Projects\VentasWeb\VentasWeb\bin\System.Web.WebPages.Razor.dll
+C:\Users\Mario Fornos\Documents\Visual Studio 2015\Projects\VentasWeb\VentasWeb\bin\WebGrease.dll
+C:\Users\Mario Fornos\Documents\Visual Studio 2015\Projects\VentasWeb\VentasWeb\bin\CapaDatos.pdb
+C:\Users\Mario Fornos\Documents\Visual Studio 2015\Projects\VentasWeb\VentasWeb\bin\CapaModelo.pdb
+C:\Users\Mario Fornos\Documents\Visual Studio 2015\Projects\VentasWeb\VentasWeb\bin\System.Web.Helpers.xml
+C:\Users\Mario Fornos\Documents\Visual Studio 2015\Projects\VentasWeb\VentasWeb\bin\System.Web.Mvc.xml
+C:\Users\Mario Fornos\Documents\Visual Studio 2015\Projects\VentasWeb\VentasWeb\bin\System.Web.Optimization.xml
+C:\Users\Mario Fornos\Documents\Visual Studio 2015\Projects\VentasWeb\VentasWeb\bin\System.Web.Razor.xml
+C:\Users\Mario Fornos\Documents\Visual Studio 2015\Projects\VentasWeb\VentasWeb\bin\System.Web.WebPages.xml
+C:\Users\Mario Fornos\Documents\Visual Studio 2015\Projects\VentasWeb\VentasWeb\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Mario Fornos\Documents\Visual Studio 2015\Projects\VentasWeb\VentasWeb\bin\System.Web.WebPages.Razor.xml
+C:\Users\Mario Fornos\Documents\Visual Studio 2015\Projects\VentasWeb\VentasWeb\bin\Newtonsoft.Json.xml
+C:\Users\Mario Fornos\Documents\Visual Studio 2015\Projects\VentasWeb\VentasWeb\bin\Antlr3.Runtime.pdb
+C:\Users\Mario Fornos\Documents\Visual Studio 2015\Projects\VentasWeb\VentasWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Mario Fornos\Documents\Visual Studio 2015\Projects\VentasWeb\VentasWeb\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Mario Fornos\Documents\Visual Studio 2015\Projects\VentasWeb\VentasWeb\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Mario Fornos\Documents\Visual Studio 2015\Projects\VentasWeb\VentasWeb\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Mario Fornos\Documents\Visual Studio 2015\Projects\VentasWeb\VentasWeb\bin\es\System.Web.Razor.resources.dll
+C:\Users\Mario Fornos\Documents\Visual Studio 2015\Projects\VentasWeb\VentasWeb\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Mario Fornos\Documents\Visual Studio 2015\Projects\VentasWeb\VentasWeb\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Mario Fornos\Documents\Visual Studio 2015\Projects\VentasWeb\VentasWeb\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Mario Fornos\Documents\Visual Studio 2015\Projects\VentasWeb\VentasWeb\obj\Debug\VentasWeb.csprojResolveAssemblyReference.cache
+C:\Users\Mario Fornos\Documents\Visual Studio 2015\Projects\VentasWeb\VentasWeb\obj\Debug\VentasWeb.dll
+C:\Users\Mario Fornos\Documents\Visual Studio 2015\Projects\VentasWeb\VentasWeb\obj\Debug\VentasWeb.pdb

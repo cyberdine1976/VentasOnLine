@@ -1,0 +1,14 @@
+D:\WorkSpaceAD\YOUTUBE\022_FUNCIONALIDAD SISTEMA DE VENTA MVC\VentasWeb\CapaModelo\bin\Debug\CapaModelo.dll
+D:\WorkSpaceAD\YOUTUBE\022_FUNCIONALIDAD SISTEMA DE VENTA MVC\VentasWeb\CapaModelo\bin\Debug\CapaModelo.pdb
+D:\WorkSpaceAD\YOUTUBE\022_FUNCIONALIDAD SISTEMA DE VENTA MVC\VentasWeb\CapaModelo\obj\Debug\CapaModelo.csproj.CoreCompileInputs.cache
+D:\WorkSpaceAD\YOUTUBE\022_FUNCIONALIDAD SISTEMA DE VENTA MVC\VentasWeb\CapaModelo\obj\Debug\CapaModelo.dll
+D:\WorkSpaceAD\YOUTUBE\022_FUNCIONALIDAD SISTEMA DE VENTA MVC\VentasWeb\CapaModelo\obj\Debug\CapaModelo.pdb
+D:\WorkSpaceAD\YOUTUBE\022_FUNCIONALIDAD SISTEMA DE VENTA MVC\VentasWeb\CapaModelo\obj\Debug\CapaModelo.csprojAssemblyReference.cache
+C:\Users\Mario Fornos\Documents\Visual Studio 2015\VentasWeb\CapaModelo\bin\Debug\CapaModelo.dll
+C:\Users\Mario Fornos\Documents\Visual Studio 2015\VentasWeb\CapaModelo\bin\Debug\CapaModelo.pdb
+C:\Users\Mario Fornos\Documents\Visual Studio 2015\VentasWeb\CapaModelo\obj\Debug\CapaModelo.dll
+C:\Users\Mario Fornos\Documents\Visual Studio 2015\VentasWeb\CapaModelo\obj\Debug\CapaModelo.pdb
+C:\Users\Mario Fornos\Documents\Visual Studio 2015\Projects\VentasWeb\CapaModelo\bin\Debug\CapaModelo.dll
+C:\Users\Mario Fornos\Documents\Visual Studio 2015\Projects\VentasWeb\CapaModelo\bin\Debug\CapaModelo.pdb
+C:\Users\Mario Fornos\Documents\Visual Studio 2015\Projects\VentasWeb\CapaModelo\obj\Debug\CapaModelo.dll
+C:\Users\Mario Fornos\Documents\Visual Studio 2015\Projects\VentasWeb\CapaModelo\obj\Debug\CapaModelo.pdb
